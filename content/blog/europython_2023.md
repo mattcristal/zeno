@@ -28,10 +28,10 @@ Heading then back down to the city, you can also notice a **Banksy**
 
 ![banksy](/images/europython_2023/banksy.jpeg)
 
-Another surprise was also the **medovik** being served as dessert at the conference. A sophisticated sweet which existence I ignored until a week weeks before.
+Another surprise was also the **medovik** being served as dessert at the conference and in most places around Prague. A sophisticated sweet which existence I ignored until a week weeks before.
 
 ![medovik](/images/europython_2023/medovik.jpg)
 
-But something that Netlify reminded me again today 🍰
+But something that Netlify reminded me again today of 🍰
 
 ![netlify](/images/europython_2023/medovik_netlify_deployment.png)
