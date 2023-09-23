@@ -8,13 +8,13 @@ date: 2023-09-18
 
 ## The conference
 
-This July I attended my *first* Python conference: EuroPython2023 in Prague 🇨🇿
+This July I attended my *first* Python conference: EuroPython 2023 in Prague 🇨🇿
 
-The whole event was cool and the community very welcoming. I fully subscribe to Brett Cannon words: *"I came for the language, but I stayed for the community."*
+The entire event was fantastic, and the community was incredibly welcoming. I fully subscribe to Brett Cannon words: *"I came for the language, but I stayed for the community."*
 
 I listened to talks on important libraries like 🦋 `HTTPX`, 🐻‍❄️ `polars` and 🦆`DuckDB` which were given by key contributors and maintainers.
 
-Indeed, programmers really embrace emojis, but also animals. For example, Pedro Holanda explains the origin of DuckDB's name.
+Indeed, programmers really embrace emojis, but also animals. For example, Pedro Holanda explains the origin of DuckDB's name at minute 39:50
 
 {% youtube url="https://www.youtube-nocookie.com/embed/egN4TwVyJss?t=2384" label="DuckDB: Bringing analytical SQL directly to your Python shell (EuroPython 2023)" /%}
 
