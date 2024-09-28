@@ -12,11 +12,11 @@ These days I was very happy to attend my **first** PyData conference, in Amsterd
 
 ## Tutorials
 
-![tutorials](/public/images/pydata_amsterdam_2024/tutorials.jpg)
+![tutorials](/images/pydata_amsterdam_2024/tutorials.jpg)
 
 First, there were the tutorials! They took place at OBA Oosterdok 📚 - a cool library next to the Amsterdam Centraal train station.
 
-![amsterdam_view](/public/images/pydata_amsterdam_2024/amsterdam_view.jpg)
+![amsterdam_view](/images/pydata_amsterdam_2024/amsterdam_view.jpg)
 
 The first one I attended was on [Py03](https://github.com/Cheukting/py03_101), we went through some exercises on writing Python modules in Rust 🦀
 
@@ -42,16 +42,16 @@ fn pig_latinnify(inputs: &[Series]) -> PolarsResult<Series> {
 
 This is all about pig-latinify!
 
-![pig_latinify](/public/images/pydata_amsterdam_2024/pig_latinify.png)
+![pig_latinify](/images/pydata_amsterdam_2024/pig_latinify.png)
 
 ## The conference
 
 The event took place in a cool location in Amsterdam North, at Kromhouthal. I have to say that everything was well-organized, and the event was very professional.
 
-![conference](/public/images/pydata_amsterdam_2024/conference.jpg)
+![conference](/images/pydata_amsterdam_2024/conference.jpg)
 
 There were some cool presentations on Polars, DBT, data science for social good and more. The one that I enjoyed the most was not a talk, but another workshop on [Narwhals](https://narwhals-dev.github.io/narwhals/) which is a dataframe-compatibility library.
 
 In this workshop, we worked on some **good-first-issues** on GitHub and got more familiar with the project. If the related Pull Request (PR) was approved, you would end up getting a GIF
 
-![gif](/public/images/pydata_amsterdam_2024/narwal.png)
+![gif](/images/pydata_amsterdam_2024/narwal.png)
