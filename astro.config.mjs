@@ -40,7 +40,7 @@ export default defineConfig({
     shikiConfig: {
       // Choose from Shiki's built-in themes (or add your own)
       // https://shiki.style/themes
-      theme: 'solarized-light',
+      // theme: 'solarized-light',
       // Alternatively, provide multiple themes
       // See note below for using dual light/dark themes
       themes: {

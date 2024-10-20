@@ -139,7 +139,7 @@ This is very nice and a very good starting point when you want to start out with
 
 ## Conclusion
 
-The namings can be confusing, but these all worth checking out:
+The naming can be confusing, but these all worth checking out:
 
 - [DuckDB](https://github.com/duckdb/duckdb) - the database
 - [DuckDB Labs](https://duckdblabs.com/) - the support/consulting firm
