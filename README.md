@@ -3,3 +3,27 @@
 # Zeno
 
 My personal blog and website 😄
+
+## Development
+
+### Local server
+
+Run:
+
+```shell
+yarn dev
+```
+
+### Upgrading Astro
+
+Run:
+
+```shell
+npx @astrojs/upgrade
+```
+
+## TODOs
+
+- [ ] The website's theme Blogster Sleek is [deprecated](https://github.com/flexdinesh/blogster).
+- [ ] The performance's Lighthouse' score is not 100%.
+- [ ] `CodeBlock.astro` is using `Prism.js` but [Shiki](https://docs.astro.build/en/guides/markdown-content/#shiki-configuration) would be better.
