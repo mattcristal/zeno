@@ -133,7 +133,7 @@ Specifically, there was a cool presentation from [MotherDuck](https://motherduck
 
 For example:
 
-![meetup event image](/public/images/duckdb_meetup_amsterdam_2024/duckdb_text_to_sql.png)
+![meetup event image](/images/duckdb_meetup_amsterdam_2024/duckdb_text_to_sql.png)
 
 This is very nice and a very good starting point when you want to start out with a query. It builds up from the already interesting work that they did on [FixIt](https://motherduck.com/blog/introducing-fixit-ai-sql-error-fixer/).
 
