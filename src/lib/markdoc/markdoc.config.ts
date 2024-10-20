@@ -5,9 +5,9 @@ const { nodes, Tag } = Markdoc;
 
 /*
   Markdoc is a great tool to author content in Markdown.
-  It supports all default markdown syntax and allows you 
+  It supports all default markdown syntax and allows you
   to configure and use custom syntax to render your own
-  components. 
+  components.
 
   This is how it works —
   1. It takes a config (this file)
@@ -16,11 +16,11 @@ const { nodes, Tag } = Markdoc;
   4. We render the tree in Astro pages using astro-markdoc-renderer package
 */
 
-/* 
-  Markdoc config goes here. 
-  https://markdoc.dev/docs/config 
-  
-  - If you want to support a custom element, just 
+/*
+  Markdoc config goes here.
+  https://markdoc.dev/docs/config
+
+  - If you want to support a custom element, just
     add it config.tags (Eg. youtube). Once added here,
     you can use the custom component syntax in markdown files.
     Once added here, you can add an Astro component for it in
@@ -28,7 +28,7 @@ const { nodes, Tag } = Markdoc;
 
   - By default, the default markdown tags are automatically rendered
     in default html elements. Eg. # is rendered in <h1>, and paragraphs
-    are rendered in <p>. If you want to customize how default markdown 
+    are rendered in <p>. If you want to customize how default markdown
     elements are rendered, add a config for the element to `config.nodes`.
     This is not easy but we have already done it for headings so
     you can copy paste the code from nodes.heading into whichever tag you
@@ -135,8 +135,7 @@ export const config: Config = {
         const children = node.transformChildren(config);
         if (children.some((child) => typeof child !== "string")) {
           throw new Error(
-            `unexpected non-string child of code block from ${
-              node.location?.file ?? "(unknown file)"
+            `unexpected non-string child of code block from ${node.location?.file ?? "(unknown file)"
             }:${node.location?.start.line ?? "(unknown line)"}`
           );
         }
